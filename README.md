@@ -1,6 +1,6 @@
 This is a minimal docker container (<23mb) for the Stoplight.io Prism proxy.
 
-You can learn more about Stoplight.io and Prism here: http://stoplight.io/prism
+You can learn more about Stoplight.io and Prism here: https://help.stoplight.io/prism/getting-started
 
 Usage
 =====
@@ -8,7 +8,7 @@ Usage
 Basic
 -----
 
-    docker run webridge/stoplight-prism --version
+    docker run webridge/stoplight-prism version
 
 What you really need
 --------------------
